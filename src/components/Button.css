@@ -4,7 +4,7 @@
   border: none;
   border-radius: 5px;
   padding: 10px 20px;
-  font-size: 10px;
+  font-size: 18px;
   white-space: nowrap; /*화면이 줄어들더라도 줄바꿈 되지않도록 설정*/
 }
 
